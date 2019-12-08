@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Did you know that i know how to solve a rubiks cube and i also have a guide. My teacher is a big fan of them everybody in my class has a rubiks cube and a guide the guide eventually we can keep but the rubiks cube we cant. there is some people in my class that can the whole rubiks cube without the guide, but i can only get to the middle layer without the guide.
+=======
+this is my 1st text  file.
+sharkie 
+dolphine
+>>>>>>> origin/CodingClass2
